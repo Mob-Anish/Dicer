@@ -4,6 +4,7 @@
 
 - Simple dice rolling game using html,css and vanilla javascript.
 - It is the game inspired from the pig game of [Jonas Schmedtmann](https://github.com/jonasschmedtmann).
+- You can visit the site by clicking [here](https://dicer-game.netlify.app/).
 
 # Rules💁:
 
