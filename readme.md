@@ -7,10 +7,10 @@
 
 # Rules💁:
 
-- The game has 2 players, playing in rounds
+- The game has 2 players playing in rounds.
 - EachPlayer should roll dice one after another (IMPORTANT !!).
 - The player should chose 'Hold' after rolling dice so that his current score gets added to his player total score. After that,it's the next player's turn.
 - In each turn, a player rolls a dice. Each result get added to his currentscore.
-- But, if the player rolls 1 but it wont be seen in UI and all his current score gets lost. After that,it's the next player's turn
+- But, if the player rolls 1 but it wont be seen in UI and all his current score gets lost. After that,it's the next player's turn.
 - Unless there is no dice roll u cant choose the hold button.
 - The first player to reach 50 points on total score wins the game.
